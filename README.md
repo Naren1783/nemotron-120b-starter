@@ -32,10 +32,9 @@ If you don't already have Python on your computer, you need to install it.
 
 ### Step 3: Get Your Free NVIDIA API Key
 To connect to NVIDIA's servers, you need a digital "key".
-1. Go to the [NVIDIA API Catalog](https://build.nvidia.com/explore/discover) and create a free account.
-2. Find the **Nemotron-3-Super-120B** model.
-3. Click the **Generate API Key** button.
-4. Copy your unique key (it will look something like `nvapi-...`). Keep this secret!
+1. Go to the https://build.nvidia.com/nvidia/nemotron-3-ultra-550b-a55b and create a free account.
+2. Click the **Generate API Key** button.
+3. Copy your unique key (it will look something like `nvapi-...`). Keep this secret!
 
 ### Step 4: Add Your Key to the Code
 1. Open the extracted folder on your Desktop.
